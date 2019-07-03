@@ -1,3 +1,3 @@
 # Read-mind (Card Game program)
-## °³¹ß ¾ð¾î
+## ê°œë°œ ì–¸ì–´
 java
